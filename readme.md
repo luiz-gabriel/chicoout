@@ -21,3 +21,4 @@
 * Luiz Gabriel F.D França
 * Maria Luísa Coimbra
 * Hugo Santana
+* Pedro Corrêa e Saulo Ambrósio
